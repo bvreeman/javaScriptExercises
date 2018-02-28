@@ -7,5 +7,6 @@ module.exports = {
     'func-names': [0],
     'object-shorthand': [0],
     'indent': [0],
+    'linebreak-style': [0],
   } 
  };
